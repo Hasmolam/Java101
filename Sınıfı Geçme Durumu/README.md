@@ -1,0 +1,1 @@
+# Sınıftan Geçip Kalma Durumunu Belirleyen Program
